@@ -24,8 +24,8 @@ wheels/
 *.egg
 
 # Data files
-data/database/*.csv
-data/processed/*.csv
+#data/database/*.csv
+#data/processed/*.csv
 models/*.pkl
 models/*.joblib
 
